@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on projects that help the community
-- 📫 ecacha@up.edu.ph
+- 📫 emmalynacha@gmail.com
 
 <!---
 emmaacha/emmaacha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
